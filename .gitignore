@@ -1,0 +1,6 @@
+models/
+test/
+__pycache__
+*.pyc
+*.o
+*.txt
